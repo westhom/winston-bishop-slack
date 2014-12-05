@@ -16,8 +16,9 @@
     "logger"
   ],
   "dependencies": {
-    "node-slack": "0.0.3",
-    "winston": "~0.7.2"
+    "extend.js": "0.0.2",
+    "superagent": "^0.21.0",
+    "winston": "^0.7.3"
   },
   "main": "./lib/winston-slack",
   "engines": {
