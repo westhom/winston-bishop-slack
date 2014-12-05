@@ -6,10 +6,12 @@
     "type": "git",
     "url": "https://github.com/lapwinglabs/winston-bishop-slack"
   },
-  "contributors": [{
-    "name": "Andy Batchelor",
-    "email": "andy.batchelor@tritondigital.com"
-  }],
+  "contributors": [
+    {
+      "name": "Andy Batchelor",
+      "email": "andy.batchelor@tritondigital.com"
+    }
+  ],
   "keywords": [
     "logging",
     "sysadmin",
