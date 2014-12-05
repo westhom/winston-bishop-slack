@@ -1,10 +1,10 @@
 {
-  "name": "winston-slack",
-  "version": "0.1.6",
-  "author": "Andrew Batchelor <andy.batchelor@tritondigital.com",
+  "name": "winston-bishop-slack",
+  "version": "0.2.0",
+  "author": "Brian Dentino",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TDASinternal/winston-slack"
+    "url": "https://github.com/lapwinglabs/winston-bishop-slack"
   },
   "keywords": [
     "logging",
@@ -23,5 +23,14 @@
   "main": "./lib/winston-slack",
   "engines": {
     "node": ">= 0.6.0"
-  }
+  },
+  "description": "Basic transport that works just like all other winston transports. Sends logged messages to a specified slack chat channel",
+  "bugs": {
+    "url": "https://github.com/lapwinglabs/winston-bishop-slack/issues"
+  },
+  "homepage": "https://github.com/lapwinglabs/winston-bishop-slack",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
 }
