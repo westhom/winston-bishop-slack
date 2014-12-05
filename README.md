@@ -22,7 +22,7 @@ Then install winston-bishop-slack
     var slack = require('winston-bishop-slack').Slack;
     
     winston.add(slack, {
-      webhook_url: "https://hooks.slack.com/services/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",
+      webhook_url: "https://hooks.slack.com/services/...",
       icon_url: "https://stagefisher.s3.amazonaws.com/images/character/image/519b31da5bf1614f8100000e/Winston-Bishop-New_Girl.jpg",
       channel: "#winston",
       username: "Winston Bishop",
